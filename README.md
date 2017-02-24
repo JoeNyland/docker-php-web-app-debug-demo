@@ -1,4 +1,4 @@
-# php-webapp-debug-demo
+# docker-php-webapp-debug-demo
 
 This repo holds a very simple PHP app in a Docker image that is used in a blog post where I talk about how to debug PHP
 apps that are running inside a Docker container.
