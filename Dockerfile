@@ -1,7 +1,5 @@
 FROM php:5.6-apache
 
-MAINTAINER Joe Nyland <joenyland@me.com>
-
 # Install the app code
 COPY src/index.php /var/www/html
 
